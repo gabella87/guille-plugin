@@ -1,0 +1,28 @@
+{
+  "type": "panel",
+  "name": "Plugin Template",
+  "id": "grafana-plugin-template-webpack",
+  "info": {
+    "description": "Plugin Template Name Description Guille",
+    "author": {
+      "name": "Author Name",
+      "url": "example.com"
+    },
+    "keywords": [ ],    
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {"name": "Project site", "url": "https://github.com/ryantxu/grafana-plugin-template-webpack"},
+      {"name": "MIT License",  "url": "https://github.com/ryantxu/grafana-plugin-template-webpack/blob/master/LICENSE"}
+    ],
+    "screenshots": [ ],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "5.x",
+    "plugins": [ ]
+  }
+}
